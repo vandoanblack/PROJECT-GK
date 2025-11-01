@@ -49,8 +49,8 @@ Sau khi hệ thống đã khởi chạy, bạn có thể sử dụng Postman đ�
 * **Body**: `raw` (JSON)
     ```json
     {
-        "username": "testuser",
-        "password": "password123"
+        "username": "doan",
+        "password": "22640031"
     }
     ```
 
@@ -60,8 +60,8 @@ Sau khi hệ thống đã khởi chạy, bạn có thể sử dụng Postman đ�
 * **Body**: `raw` (JSON)
     ```json
     {
-        "username": "testuser",
-        "password": "password123"
+        "username": "doan",
+        "password": "22640031"
     }
     ```
 Hành động: Copy giá trị `accessToken` từ kết quả trả về.
